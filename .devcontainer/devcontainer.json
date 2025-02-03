@@ -1,5 +1,5 @@
 {
-    "name": "python:3.12-bookworm",
+    "name": "python:3.9-bullseye",
     "image": "mcr.microsoft.com/devcontainers/python:3.9-bullseye",
     "features": {
         "ghcr.io/devcontainers-contrib/features/poetry:2": {}
